@@ -1,0 +1,27 @@
+{
+  "name": "nestjs-axios-logger-base",
+  "version": "1.0.0",
+  "description": "Nestjs Axios Base Logger",
+  "author": "Jose Luis Morales Watanabe <josemoraleswatanabe@gmail.com>",
+  "license": "MIT",
+  "types": "dist/index.d.ts",
+  "readmeFilename": "README.md",
+  "main": "dist/index.js",
+  "files": [
+    "dist/**/*",
+    "*.md"
+  ],
+  "keywords": [
+    "nestjs",
+    "axios",
+    "logging"
+  ],
+  "scripts": {
+    "build": "rimraf dist && tsc",
+    "prepublish": "npm run build"
+  },
+  "dependencies": {
+    "@nestjs/common": "^9.3.9",
+    "rxjs": "^7.8.0"
+  }
+}
