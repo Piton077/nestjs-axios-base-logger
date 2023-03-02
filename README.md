@@ -6,17 +6,16 @@
   </a>
 </div>
 
-<h3 align="center">DaaS library to handle Daas Clients</h3>
+<h3 align="center">Nestjs Axios Logger</h3>
 
 <div align="center">
   <a href="https://nestjs.com" target="_blank">
     <img src="https://img.shields.io/badge/built%20with-NestJs-red.svg" alt="Built with NestJS">
   </a>
 </div>
+<p> This package helps to log nestjs inbound and outgoing http requests. As well as, you can replace the base logger by your own logger</p>
 
-## This is an example how to use it
-
-https://gitlab.com/cencosud-ds/cencommerce/post-purchase-experience/fulfilment/delivery/backend/integrations-components/beetrack-integration-component
+## Quick start
 
 ## Changes from 0.0.7
 
