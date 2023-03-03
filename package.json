@@ -1,6 +1,6 @@
 {
   "name": "nestjs-axios-logger-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nestjs Axios Base Logger",
   "author": "Jose Luis Morales Watanabe <josemoraleswatanabe@gmail.com>",
   "license": "MIT",
